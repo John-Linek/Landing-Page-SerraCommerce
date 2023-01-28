@@ -1,0 +1,55 @@
+@media screen and (max-width:400px) {
+
+    body{
+
+        margin: 0;
+        padding: 0;
+
+    }
+
+    #btn_top{
+
+        position: fixed;
+        right: 12%;
+
+    }
+
+    header {
+
+        height: 150px;
+        width: 100%;
+        margin-top: 50px;
+    
+    }
+
+    header img{
+
+        margin-bottom: 20px;
+        
+    }
+
+    #seguir {
+
+        position: fixed;
+        top: 4%;
+        width: 85%;
+
+    }
+
+    #btn_top{
+
+
+        position: fixed;
+        top: 6%;
+        right: 8%;
+
+    }
+
+    section{
+
+        width: 95%;
+        margin-top: 15px;
+
+    }
+    
+}
